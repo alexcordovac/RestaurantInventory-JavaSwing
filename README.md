@@ -1,5 +1,6 @@
 # Restaurant inventory management
-A Java Swing Application made from scratch for a Restaurant Management using MySQL.
+A Java Swing Application made from scratch for a Restaurant Management using MVC, JasperReports, MySQL.
+
 
 # Screenshots
 In folder images
